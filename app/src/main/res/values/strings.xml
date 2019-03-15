@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Form</string>
+    <string name="exit">Exit</string>
+    <string name="send_email">Send Email</string>
+    <string name="about_us">About US</string>
+    <string-array name="departments">
+        <item>IT</item>
+        <item>Marketing</item>
+        <item>Sales</item>
+        <item>Admin</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="states">
+        <item>Selangor</item>
+        <item>Sarawak</item>
+        <item>Sabah</item>
+        <item>Kelantan</item>
+        <item>Kedah</item>
+        <item>Perak</item>
+        <item>Pahang</item>
+        <item>Perlis</item>
+        <item>Pulau Pinang</item>
+        <item>Melaka</item>
+        <item>Johor</item>
+        <item>Negeri Sembilan</item>
+        <item>Terengganu</item>
+        <item>Wilayah Persekutuan</item>
+    </string-array>
+</resources>
